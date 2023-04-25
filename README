@@ -1,0 +1,13 @@
+task 1 -> folosind formula data in enunt, construim de fiecare data indicii de care avem nevoie si punem rezultatul 
+          obtinut in urma ooperatiei xor pe pozitia corespunzatoare
+task 2 -> luam pe rand fiecare data de nastere si tratam fiecare caz posibil, comparand anul, luna si ziua
+task 3 -> urmam pasii descrisi in enunt; diferenta este ca pentru a simula parcurgerea caracterelor de pe o coloana,
+          adaugam la pozitia curenta din haystack lungimea cheii (= nr de coloane)
+task 4 -> respectam ordinea pasilor descrisi in enunt si in exemplul de la sfarsit
+
+! PENTRU DETALII EXACTE DESPRE IMPLEMENTARE SI PENTRU DESCRIEREA TASK-URILOR PE PASI, URMARITI COMENTARIILE 
+  MULTIPLE DIN COD !
+
+  -stiu ca nu ar fi trebuit sa ma folosesc de registrul ebp, dar am aflat acest lucru la un laborator, cand deja
+   terminasem tema; imi cer scuze :( ; totusi asta nu influenteaza cu nimic implementarea si functionarea acestor 
+   taskuri :) -
